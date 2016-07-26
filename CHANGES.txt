@@ -1,6 +1,11 @@
 CHANGES
 =======
 
+2.1.2 (unreleased)
+------------------
+
+- Add support for all languages to 2.1.1.
+
 2.1.1 - 2014-11-12
 ------------------
 
