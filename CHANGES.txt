@@ -1,7 +1,7 @@
 CHANGES
 =======
 
-2.1.2 (unreleased)
+2.1.2 (2016-07-28)
 ------------------
 
 - Add support for all languages to 2.1.1.
